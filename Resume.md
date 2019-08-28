@@ -60,9 +60,9 @@
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-- 熟练掌握 Java,web 开发模式
+- 熟练掌握 Java,Web 开发模式
 - 精通 Spring/Hibernate/Mybatis/React/vue 等框架
-- 熟练掌握 Maven,Git,postMan,xiaopiu,Fiddle 等常用工具
-- 熟悉使用 Tomcat 应用服务器的应用部署和配置，熟悉 Linux 环境
-- 对前后端分离模式，可视化开发深入理解，对 Vue 和 react 有丰富的开发经验，具备一定的框架设计能力
-- 熟悉 JavaScript/Ajax/TypeScript/CSS,XML HTTP/ TCP/IP 协议有较深刻的理解
+- 熟练掌握 Maven/Git/PostMan/XiaoPiu,Fiddler 等常用工具
+- 熟悉使用 Tomcat 应用服务器的应用部署和配置,熟悉 Linux 环境部署
+- 对前后端分离模式,可视化开发深入理解，对 Vue 和 react 有丰富的开发经验，具备一定的框架设计能力
+- 熟悉 JavaScript/Ajax/TypeScript/CSS/XML HTTP/ TCP/IP 协议有较深刻的理解
