@@ -26,7 +26,7 @@
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
-- **百成生物科技有限公司，开发 部门，Java 初级 工程师，2010.1~2010.9**
+- **百成生物科技有限公司，开发 部门，Java 初级 工程师，2018.3~2019.8**
 
   负责:原型设计,数据库优化,参与数据库设计,代码测试,修复 bug,对接接口
 
@@ -36,9 +36,11 @@
 
 #### \_使用到的技术:
 
-后端: Java,SpringBoot,Tomcat,Redis,MySQL,Hibernate,SpringData,Maven
-前端: React,Ajax,Css,Html,JavaScript,TypeScript,antDesign,nodeJs,npm  
-工具 Idea,Vscode.Chrome,PostMan,Git
+后端: Java/SpringBoot/Tomcat/Redis/MySQL/Hibernate/SpringData/Maven  
+前端:  
+ React/Ajax/Css/Html/JavaScript/TypeScript/antDesign/nodeJs/npm  
+工具:  
+ Idea/Vscode/Chrome/PostMan/Git
 
 该项目是一款提供线上签署合同和储存印章的电子印章平台,支持使用个人和企业使用,提供产品购买,支付包,微信,银联支付,个人和企业实名认证,创建电子印章,储存印章.支持多人签署
 
@@ -63,4 +65,4 @@
 - 熟练掌握 Maven,Git,postMan,xiaopiu,Fiddle 等常用工具
 - 熟悉使用 Tomcat 应用服务器的应用部署和配置，熟悉 Linux 环境
 - 对前后端分离模式，可视化开发深入理解，对 Vue 和 react 有丰富的开发经验，具备一定的框架设计能力
-- 熟悉 JavaScript,Ajax,typeScript,Css,Xml, HTTP/TCP/IP 协议有较深刻的理解
+- 熟悉 JavaScript/Ajax/TypeScript/CSS,XML, HTTP/ TCP/IP 协议有较深刻的理解
